@@ -1,7 +1,7 @@
 <!--
 ╔══════════════════════════════════════════════════════════════╗
 ║                       SYSTEM PROFILE                         ║
-║                         DIEGO.exe                            ║
+║                        diegogvznk                            ║
 ╠══════════════════════════════════════════════════════════════╣
 ║ Substitua antes de publicar:                                ║
 ║ SEU_USUARIO   → seu username do GitHub                      ║
@@ -32,7 +32,7 @@
 ```text
 SYSTEM://PROFILE/USER
 
-Name       : Diego
+Name       : Diego Gabriel
 Role       : Developer • Builder • Founder
 Company    : Rio Studio
 Focus      : SaaS • Web Apps • Automation • Digital Products
@@ -152,7 +152,7 @@ Projetos focados em sites, sistemas, interfaces e soluções digitais para empre
 
 ![Status](https://img.shields.io/badge/SYSTEM-ACTIVE-00E5FF?style=flat-square\&labelColor=050816)
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/diegogvznk">
 <img src="https://img.shields.io/badge/EXPLORE-00E5FF?style=for-the-badge&logo=github&logoColor=050816">
 </a>
 
@@ -170,7 +170,7 @@ MicroSaaS, automações, extensões, ferramentas internas e experimentos criados
 
 ![Status](https://img.shields.io/badge/LAB-ONLINE-FACC15?style=flat-square\&labelColor=050816)
 
-<a href="https://github.com/SEU_USUARIO?tab=repositories">
+<a href="https://github.com/diegogvznk?tab=repositories">
 <img src="https://img.shields.io/badge/OPEN_LAB-FACC15?style=for-the-badge&logo=github&logoColor=050816">
 </a>
 
@@ -207,7 +207,7 @@ MicroSaaS, automações, extensões, ferramentas internas e experimentos criados
 
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=C9D1D9&border_radius=10"/>
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&border_radius=10"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegogvznk&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&border_radius=10"/>
 
 </div>
 
@@ -215,7 +215,7 @@ MicroSaaS, automações, extensões, ferramentas internas e experimentos criados
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=transparent&hide_border=true&background=0D1117&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
+<img src="https://streak-stats.demolab.com?user=diegogvznk&theme=transparent&hide_border=true&background=0D1117&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
 
 </div>
 
@@ -225,7 +225,7 @@ MicroSaaS, automações, extensões, ferramentas internas e experimentos criados
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=00E5FF&line=7C3AED&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&custom_title=SYSTEM%20ACTIVITY%20MONITOR"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=diegogvznkO&bg_color=0D1117&color=00E5FF&line=7C3AED&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&custom_title=SYSTEM%20ACTIVITY%20MONITOR"/>
 
 </div>
 
@@ -235,7 +235,7 @@ MicroSaaS, automações, extensões, ferramentas internas e experimentos criados
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=diegogvznk&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7"/>
 
 </div>
 
