@@ -1,13 +1,7 @@
 <!--
 ╔══════════════════════════════════════════════════════════════╗
-║                       SYSTEM PROFILE                         ║
-║                        diegogvznk                            ║
-╠══════════════════════════════════════════════════════════════╣
-║ Substitua antes de publicar:                                ║
-║ SEU_USUARIO   → seu username do GitHub                      ║
-║ SEU_LINKEDIN  → URL do LinkedIn                             ║
-║ SEU_INSTAGRAM → URL do Instagram                            ║
-║ SEU_EMAIL     → seu endereço de e-mail                      ║
+║                    DIEGO // SYSTEM                           ║
+║                   GitHub Profile v2.0                        ║
 ╚══════════════════════════════════════════════════════════════╝
 -->
 
@@ -15,13 +9,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,45:071426,100:00E5FF&height=240&section=header&text=DIEGO.exe&fontSize=55&fontColor=E6F7FF&animation=fadeIn&fontAlignY=36&desc=SYSTEM%20INITIALIZATION%20%2F%2F%20ACCESS%20GRANTED&descAlignY=58&descSize=15"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=750&color=00E5FF&center=true&vCenter=true&width=900&height=60&lines=%3E+Inicializando+sistema...;%3E+Carregando+projetos+e+tecnologias...;%3E+SaaS+%7C+Web+Development+%7C+Automa%C3%A7%C3%A3o;%3E+Construindo+produtos+digitais+que+resolvem+problemas.;%3E+SYSTEM+STATUS%3A+ONLINE_" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=750&color=00E5FF&center=true&vCenter=true&width=900&height=60&lines=%3E+Inicializando+sistema...;%3E+Carregando+projetos+e+tecnologias...;%3E+SaaS+%7C+Web+Development+%7C+Automation;%3E+Building+what+doesn't+exist+yet...;%3E+SYSTEM+STATUS%3A+ONLINE_" alt="Typing Animation" />
 
 <br>
 
-![Status](https://img.shields.io/badge/SYSTEM-ONLINE-00E5FF?style=for-the-badge\&labelColor=050816)
-![Focus](https://img.shields.io/badge/FOCUS-SaaS_%26_Automation-7C3AED?style=for-the-badge\&labelColor=050816)
-![Build](https://img.shields.io/badge/BUILD-IN_PROGRESS-22C55E?style=for-the-badge\&labelColor=050816)
+![Status](https://img.shields.io/badge/SYSTEM-ONLINE-00E5FF?style=for-the-badge&labelColor=050816)
+![Focus](https://img.shields.io/badge/FOCUS-SaaS_%26_Automation-7C3AED?style=for-the-badge&labelColor=050816)
+![Build](https://img.shields.io/badge/BUILD-IN_PROGRESS-22C55E?style=for-the-badge&labelColor=050816)
 
 </div>
 
@@ -50,34 +44,86 @@ Atualmente construindo projetos dentro do ecossistema **Rio**, experimentando no
 
 ---
 
+## `> INTERNAL_LOG`
+
+```text
+[03:17:42] SYSTEM THOUGHT DETECTED...
+
+Everyone wants the future.
+Few are willing to become the person capable of building it.
+
+[03:17:48] Emotional status : unstable
+[03:17:49] Ambition level   : critical
+[03:17:50] Mission status   : unfinished
+[03:17:51] Giving up        : permission denied
+```
+
+<div align="center">
+
+### `// THOUGHTS FROM THE MACHINE`
+
+<br>
+
+*"I carry the weight of who I am,*  
+*and the obsession of who I could become."*
+
+<br>
+
+*"Some nights are silent because*  
+*the future is being built in solitude."*
+
+<br>
+
+*"I don't fear being alone.*  
+*I fear becoming ordinary."*
+
+<br>
+
+*"The distance between me and the life I want*  
+*is measured in discipline."*
+
+<br>
+
+*"Maybe peace was never the goal.*  
+*Maybe I was made to chase something bigger."*
+
+<br>
+
+*"There is something melancholic about becoming*  
+*everything you once dreamed of."*
+
+</div>
+
+---
+
 ## `> TECH_STACK`
 
 <div align="center">
 
 ### `// FRONT-END`
 
-![HTML5](https://img.shields.io/badge/HTML5-050816?style=for-the-badge\&logo=html5\&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-050816?style=for-the-badge\&logo=css3\&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-050816?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-050816?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-050816?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-050816?style=for-the-badge\&logo=next.js\&logoColor=FFFFFF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-050816?style=for-the-badge\&logo=tailwindcss\&logoColor=06B6D4)
+![HTML5](https://img.shields.io/badge/HTML5-050816?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-050816?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-050816?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-050816?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-050816?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-050816?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-050816?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 
 ### `// BACK-END & DATA`
 
-![Node.js](https://img.shields.io/badge/Node.js-050816?style=for-the-badge\&logo=node.js\&logoColor=5FA04E)
-![Supabase](https://img.shields.io/badge/Supabase-050816?style=for-the-badge\&logo=supabase\&logoColor=3FCF8E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-050816?style=for-the-badge\&logo=postgresql\&logoColor=4169E1)
-![REST API](https://img.shields.io/badge/REST_API-050816?style=for-the-badge\&logo=fastapi\&logoColor=00E5FF)
+![Node.js](https://img.shields.io/badge/Node.js-050816?style=for-the-badge&logo=node.js&logoColor=5FA04E)
+![Supabase](https://img.shields.io/badge/Supabase-050816?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-050816?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![REST API](https://img.shields.io/badge/REST_API-050816?style=for-the-badge&logo=fastapi&logoColor=00E5FF)
 
 ### `// DEVELOPMENT`
 
-![Git](https://img.shields.io/badge/Git-050816?style=for-the-badge\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-050816?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
-![VS Code](https://img.shields.io/badge/VS_Code-050816?style=for-the-badge\&logo=visualstudiocode\&logoColor=007ACC)
-![Vercel](https://img.shields.io/badge/Vercel-050816?style=for-the-badge\&logo=vercel\&logoColor=FFFFFF)
-![Netlify](https://img.shields.io/badge/Netlify-050816?style=for-the-badge\&logo=netlify\&logoColor=00C7B7)
+![Git](https://img.shields.io/badge/Git-050816?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-050816?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Vercel](https://img.shields.io/badge/Vercel-050816?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
+![Netlify](https://img.shields.io/badge/Netlify-050816?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 
 </div>
 
@@ -87,12 +133,12 @@ Atualmente construindo projetos dentro do ecossistema **Rio**, experimentando no
 
 <div align="center">
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-050816?style=for-the-badge\&logo=openai\&logoColor=00E5FF)
-![Supabase](https://img.shields.io/badge/Supabase-050816?style=for-the-badge\&logo=supabase\&logoColor=3ECF8E)
-![Figma](https://img.shields.io/badge/Figma-050816?style=for-the-badge\&logo=figma\&logoColor=F24E1E)
-![Notion](https://img.shields.io/badge/Notion-050816?style=for-the-badge\&logo=notion\&logoColor=FFFFFF)
-![Discord](https://img.shields.io/badge/Discord-050816?style=for-the-badge\&logo=discord\&logoColor=5865F2)
-![npm](https://img.shields.io/badge/npm-050816?style=for-the-badge\&logo=npm\&logoColor=CB3837)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-050816?style=for-the-badge&logo=openai&logoColor=00E5FF)
+![Supabase](https://img.shields.io/badge/Supabase-050816?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Figma](https://img.shields.io/badge/Figma-050816?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Notion](https://img.shields.io/badge/Notion-050816?style=for-the-badge&logo=notion&logoColor=FFFFFF)
+![Discord](https://img.shields.io/badge/Discord-050816?style=for-the-badge&logo=discord&logoColor=5865F2)
+![npm](https://img.shields.io/badge/npm-050816?style=for-the-badge&logo=npm&logoColor=CB3837)
 
 </div>
 
@@ -102,6 +148,7 @@ Atualmente construindo projetos dentro do ecossistema **Rio**, experimentando no
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### ⚡ Rio Tecflow
@@ -112,9 +159,9 @@ Uma plataforma criada para centralizar operações, clientes, equipamentos e ord
 
 `Next.js` `TypeScript` `Supabase` `PostgreSQL`
 
-![Status](https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-22C55E?style=flat-square\&labelColor=050816)
+![Status](https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-22C55E?style=flat-square&labelColor=050816)
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/diegogvznk">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=050816">
 </a>
 
@@ -130,16 +177,18 @@ Sistema focado na criação de rotinas de estudo, revisões e quizzes personaliz
 
 `Web App` `Education` `AI` `Supabase`
 
-![Status](https://img.shields.io/badge/STATUS-BUILDING-7C3AED?style=flat-square\&labelColor=050816)
+![Status](https://img.shields.io/badge/STATUS-BUILDING-7C3AED?style=flat-square&labelColor=050816)
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/diegogvznk">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🌐 Rio Studio
@@ -150,7 +199,7 @@ Projetos focados em sites, sistemas, interfaces e soluções digitais para empre
 
 `Web Development` `UI/UX` `Automation`
 
-![Status](https://img.shields.io/badge/SYSTEM-ACTIVE-00E5FF?style=flat-square\&labelColor=050816)
+![Status](https://img.shields.io/badge/SYSTEM-ACTIVE-00E5FF?style=flat-square&labelColor=050816)
 
 <a href="https://github.com/diegogvznk">
 <img src="https://img.shields.io/badge/EXPLORE-00E5FF?style=for-the-badge&logo=github&logoColor=050816">
@@ -168,13 +217,14 @@ MicroSaaS, automações, extensões, ferramentas internas e experimentos criados
 
 `Experiments` `Automation` `SaaS` `AI`
 
-![Status](https://img.shields.io/badge/LAB-ONLINE-FACC15?style=flat-square\&labelColor=050816)
+![Status](https://img.shields.io/badge/LAB-ONLINE-FACC15?style=flat-square&labelColor=050816)
 
 <a href="https://github.com/diegogvznk?tab=repositories">
 <img src="https://img.shields.io/badge/OPEN_LAB-FACC15?style=for-the-badge&logo=github&logoColor=050816">
 </a>
 
 </td>
+
 </tr>
 </table>
 
@@ -201,11 +251,45 @@ MicroSaaS, automações, extensões, ferramentas internas e experimentos criados
 
 ---
 
+## `> AMBITION_PROTOCOL`
+
+```text
+SYSTEM://CORE/AMBITION
+
+> Comfort detected...
+  Removing.
+
+> Fear detected...
+  Ignoring.
+
+> Failure probability...
+  Acceptable.
+
+> Mission complete?
+  FALSE.
+
+> Continue?
+  ALWAYS.
+```
+
+<div align="center">
+
+*"I would rather fail chasing the impossible*  
+*than succeed living a life I never wanted."*
+
+<br><br>
+
+**BUILD // FAIL // LEARN // REPEAT**
+
+</div>
+
+---
+
 # `> GITHUB_ANALYTICS`
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=C9D1D9&border_radius=10"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=diegogvznk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=C9D1D9&border_radius=10"/>
 
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegogvznk&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&border_radius=10"/>
 
@@ -225,7 +309,7 @@ MicroSaaS, automações, extensões, ferramentas internas e experimentos criados
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=diegogvznkO&bg_color=0D1117&color=00E5FF&line=7C3AED&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&custom_title=SYSTEM%20ACTIVITY%20MONITOR"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=diegogvznk&bg_color=0D1117&color=00E5FF&line=7C3AED&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&custom_title=SYSTEM%20ACTIVITY%20MONITOR"/>
 
 </div>
 
@@ -245,7 +329,44 @@ MicroSaaS, automações, extensões, ferramentas internas e experimentos criados
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/diegogvznk/diegogvznk/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation"/>
+
+</div>
+
+---
+
+## `> FINAL_TRANSMISSION`
+
+```text
+[ TRANSMISSION RECEIVED ]
+
+I was never afraid of starting from nothing.
+
+I was afraid of becoming nothing.
+
+So I build.
+
+Even when nobody is watching.
+Even when nobody understands.
+Even when the result still feels far away.
+
+Maybe one day,
+all this silence will make sense.
+
+Until then...
+
+> keep building.
+```
+
+<div align="center">
+
+### `BUILT IN SILENCE.`
+
+### `DRIVEN BY OBSESSION.`
+
+### `HAUNTED BY POTENTIAL.`
+
+### `STILL NOT ENOUGH.`
 
 </div>
 
@@ -255,25 +376,17 @@ MicroSaaS, automações, extensões, ferramentas internas e experimentos criados
 
 <div align="center">
 
-<a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
+<a href="https://instagram.com/diegogvoz">
+<img src="https://img.shields.io/badge/@diegogvoz-050816?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
 
-<a href="SEU_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-050816?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-</a>
-
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/E--mail-050816?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<a href="https://github.com/diegogvznk">
+<img src="https://img.shields.io/badge/diegogvznk-050816?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO\&label=PROFILE+SCANS\&color=00E5FF\&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=diegogvznk&label=PROFILE+SCANS&color=00E5FF&style=for-the-badge)
 
 </div>
 
@@ -284,17 +397,18 @@ MicroSaaS, automações, extensões, ferramentas internas e experimentos criados
 ```text
 [ SYSTEM MESSAGE ]
 
-Keep learning.
-Keep building.
-Keep shipping.
+The future isn't waiting.
 
-The future isn't predicted.
-It's engineered.
+Neither am I.
 ```
 
 ### `SYSTEM STATUS // ONLINE`
 
 <sub>Designed & engineered by Diego • RIO SYSTEM © 2026</sub>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=Somewhere+between+who+I+was...;and+who+I+refuse+not+to+be.;I'm+still+building." />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,55:071426,100:030712&height=130&section=footer"/>
 
