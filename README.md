@@ -334,7 +334,12 @@ SYSTEM://CORE/AMBITION
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/diegogvznk/diegogvznk/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegogvznk/diegogvznk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diegogvznk/diegogvznk/output/github-contribution-grid-snake.svg">
+
+  <img alt="Snake Contribution Animation" src="https://raw.githubusercontent.com/diegogvznk/diegogvznk/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
 
