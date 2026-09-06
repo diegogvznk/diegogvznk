@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,45:071426,100:00E5FF&height=240&section=header&text=DIEGO.exe&fontSize=55&fontColor=E6F7FF&animation=fadeIn&fontAlignY=36&desc=SYSTEM%20INITIALIZATION%20%2F%2F%20ACCESS%20GRANTED&descAlignY=58&descSize=15"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,45:071426,100:00E5FF&height=240&section=header&text=diegogvznk&fontSize=55&fontColor=E6F7FF&animation=fadeIn&fontAlignY=36&desc=SYSTEM%20INITIALIZATION%20%2F%2F%20ACCESS%20GRANTED&descAlignY=58&descSize=15"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=750&color=00E5FF&center=true&vCenter=true&width=900&height=60&lines=%3E+Inicializando+sistema...;%3E+Carregando+projetos+e+tecnologias...;%3E+SaaS+%7C+Web+Development+%7C+Automation;%3E+Building+what+doesn't+exist+yet...;%3E+SYSTEM+STATUS%3A+ONLINE_" alt="Typing Animation" />
 
