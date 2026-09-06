@@ -311,6 +311,11 @@ SYSTEM://CORE/AMBITION
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diegogvznk&theme=github_dark"/>
 
+<br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=diegogvznk&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=diegogvznk&theme=github_dark&utcOffset=-3"/>
+
 </div>
 
 ---
