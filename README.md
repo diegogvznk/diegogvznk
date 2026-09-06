@@ -309,7 +309,7 @@ SYSTEM://CORE/AMBITION
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=diegogvznk&bg_color=0D1117&color=00E5FF&line=7C3AED&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&custom_title=SYSTEM%20ACTIVITY%20MONITOR"/>
+[![Diego's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=diegogvznk&bg_color=0D1117&color=00E5FF&title_color=00E5FF&line=7C3AED&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&radius=12&custom_title=SYSTEM%20ACTIVITY%20MONITOR)](https://github.com/diegogvznk)
 
 </div>
 
