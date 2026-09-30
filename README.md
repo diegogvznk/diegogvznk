@@ -1,12 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFF8DC,100:FFFFFF&height=230&section=header&text=Diego%20Gabriel&fontSize=52&fontColor=8B6914&animation=fadeIn&fontAlignY=35&desc=%E2%9C%9D%20NON%20EGO%20%E2%80%A2%20SED%20CHRISTUS%20%F0%9F%87%BB%F0%9F%87%A6&descAlignY=57&descSize=17"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=23&duration=3000&pause=1200&color=D4AF37&center=true&vCenter=true&width=900&height=70&lines=Eu+morri+para+o+mundo.+Agora+vivo+para+Ele.;J%C3%A1+n%C3%A3o+sou+eu+quem+vive...;%E2%9C%9D+Cristo+vive+em+mim.+%E2%80%94+Gl+2%2C20;%F0%9F%94%A5+Vem%2C+Esp%C3%ADrito+Santo." />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0B0B0B,45:3D2C00,100:FFD700&text=Diego%20Gabriel&fontColor=FFF8DC&fontSize=50&animation=twinkling&fontAlignY=38&desc=NON%20EGO%20%E2%80%A2%20SED%20CHRISTUS%20%E2%9C%9D%20%F0%9F%87%BB%F0%9F%87%A6&descAlignY=60&descSize=18" />
 
 <br>
 
-🇻🇦 &nbsp; **CATHOLIC** &nbsp; • &nbsp; ✝️ &nbsp; **CHRISTUS** &nbsp; • &nbsp; 🔥 &nbsp; **VENI SANCTE SPIRITUS**
+<img width="78%" src="https://capsule-render.vercel.app/api?type=rounded&height=72&color=0:111111,100:6B4F00&text=Eu%20morri%20para%20o%20mundo%20%E2%80%A2%20Agora%20vivo%20para%20Ele&fontColor=FFF4CC&fontSize=22&animation=fadeIn" />
+
+<br><br>
+
+<h3>🇻🇦 Catholic &nbsp; • &nbsp; ✝️ Christus &nbsp; • &nbsp; 🔥 Veni Sancte Spiritus</h3>
 
 </div>
 
